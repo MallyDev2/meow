@@ -1,5 +1,10 @@
-Testing GitHub pull request flow.
-meow
-meows twice
-Co-authored-by: Mallydev2 mallydev2@gmail.com and mrmalaware Malawarettv@gmail.com
+# meow
+
+Small test repository for checking GitHub workflows and pull request behavior.
+
+## Notes
+
+- Keeps the repo lightweight.
+- Useful for quick branch and review flow checks.
+- Safe place to verify profile contribution activity.
 
